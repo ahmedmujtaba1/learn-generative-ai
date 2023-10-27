@@ -2,7 +2,22 @@
 
 Before starting to learn from this repo [Learn Modern Python](https://github.com/panaverse/learn-modern-python)
 
+## Introduction to Generative AI
+
+[Watch Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
+
+![Alt text](genai_fit.jpeg "Where Does GenAI Fit")
+
+
 ## The Future of Generative AI
+
+“AI will be the greatest wealth creator in history because artificial intelligence doesn’t care where you were born, whether you have money, whether you have a PhD,” Higgins tells CNBC Make It. “It’s going to destroy barriers that have prevented people from moving up the ladder, and pursuing their dream of economic freedom.”
+
+It’s already valued at almost $100 billion, and expected to contribute $15.7 trillion to the global economy by 2030.
+
+“It’s not that if you don’t jump on it now, you never can,” Higgins says. “It’s that now is the greatest opportunity for you to capitalize on it.”
+
+[A.I. will be the biggest wealth creator in history](https://www.cnbc.com/2023/07/10/how-to-use-ai-to-make-money-right-now-say-experts.html)
 
 [Generative AI could add up to $4.4 trillion annually to the global economy](https://www.zdnet.com/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/)
 
@@ -14,6 +29,10 @@ https://www.bloomberg.com/news/newsletters/2023-10-02/silicon-valley-sees-a-new-
 [Microsoft CEO: AI is "bigger than the PC, bigger than mobile" - but is he right?](https://www.techradar.com/computing/artificial-intelligence/microsoft-ceo-ai-is-bigger-than-the-pc-bigger-than-mobile-but-is-he-right)
 
 [Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)
+
+## Generative BI
+
+[Business intelligence in the era of GenAI](https://www.youtube.com/watch?v=m0-ul3O3GwA)
 
 ## Convergence of Generative AI and Web 3.0
 
