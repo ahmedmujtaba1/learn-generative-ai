@@ -9,6 +9,14 @@ Before starting to learn from this repo [Learn Modern Python](https://github.com
 ![Alt text](genai_fit.jpeg "Where Does GenAI Fit")
 
 
+## What is the OPL stack in AI?
+
+The OPL Stack stands for OpenAI, Pinecone, and Langchain. It's a collection of open-source tools and libraries that make building and deploying LLMs a breeze. 
+
+
+![Alt text](opl.jpeg "OPL")
+
+
 ## The Future of Generative AI
 
 “AI will be the greatest wealth creator in history because artificial intelligence doesn’t care where you were born, whether you have money, whether you have a PhD,” Higgins tells CNBC Make It. “It’s going to destroy barriers that have prevented people from moving up the ladder, and pursuing their dream of economic freedom.”
@@ -29,6 +37,8 @@ https://www.bloomberg.com/news/newsletters/2023-10-02/silicon-valley-sees-a-new-
 [Microsoft CEO: AI is "bigger than the PC, bigger than mobile" - but is he right?](https://www.techradar.com/computing/artificial-intelligence/microsoft-ceo-ai-is-bigger-than-the-pc-bigger-than-mobile-but-is-he-right)
 
 [Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)
+
+[Inside the race to build an ‘operating system’ for generative AI](https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/)
 
 ## Generative BI
 
