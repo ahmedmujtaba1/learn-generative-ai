@@ -1,15 +1,11 @@
-# LLM for Application Development
-
-[Follow LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-
-[How popular is LangChain](https://snyk.io/advisor/python/langchain)
+# Hello World
 
 
 ## Create a Python 3.12+ Conda Envirnoment 
 
-    conda create --name myenv3_12 python=3.12
+    conda create --name myenv3_11 python=3.11.5
     conda env list
-    conda activate myenv3_12
+    conda activate myenv3_11
     python --version
 
 
@@ -47,4 +43,10 @@ Also note, you only get free credits for the first account associated with your 
 Signup for a Account on Pinecone and get API keys:
 
 https://www.pinecone.io/ 
+
+### Upgrade Offen
+
+    pip install --upgrade openai
+
+
     
