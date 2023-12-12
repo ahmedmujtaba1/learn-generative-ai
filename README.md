@@ -1,8 +1,24 @@
-# Learn Generative AI Application Development
+# Learn Generative AI Engineering (GenEng)
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
 
 Before starting to learn from this repo [Learn Modern Python](https://github.com/panaverse/learn-modern-python)
+
+## All Faculty and Students please Register for Microsoft Azure and Google Cloud Accounts:
+
+
+1. Microsoft Azure Account
+https://azure.microsoft.com/en-us/free/ai-services/
+
+Note: If possible register your account with a company email address.
+
+Once you have a subscription id apply for Azure Open AI Service here:
+
+https://azure.microsoft.com/en-us/products/ai-services/openai-service
+
+
+2. Google Cloud Account
+https://cloud.google.com/free
 
 # The New Era
 
@@ -14,7 +30,23 @@ Before starting to learn from this repo [Learn Modern Python](https://github.com
 
 [Must Read: OpenAI DevDay - a pivotal moment for AI](https://www.aitidbits.ai/p/openai-devday)
 
+# Generative Engineering (GenEng)
+
+GenEng revolution being led by developers who build deep proficiency in how to best leverage and integrate generative AI technologies into applications
+
+ There is a clear separation of roles between those that create and train models (Data Scientists and Engineers) and those who use those models (Developers). This was already on the way, and it much clearer with the GenAI revolution - the future of the GenAI will be determined on how it will be driven to adoption - and it will be driven by how developers adopt it.
+
+ GenEng practitioners will need to have many of the same skills of traditional application development, including scalable architecting, integrating enterprise systems, and understanding requirements from the business user. These skills will be augmented with the nuances of building generative AI applications, such as involving the business domain experts in validating aspects of prompt engineering and choosing the right LLM based on price/performance and outcomes
+
+[The rise of GenEng: How AI changes the developer role](https://cloud.google.com/blog/products/ai-machine-learning/the-rise-of-geneng-how-ai-changes-the-developer-role)
+
+[Watch: The Rise of GenEng](https://www.youtube.com/watch?v=RLUrvgfEeUc)
+
 # Latest News
+
+[Google launches its largest and ‘most capable’ AI model, Gemini](https://www.cnbc.com/2023/12/06/google-launches-its-largest-and-most-capable-ai-model-gemini.html)
+
+[Meta, IBM and Intel join alliance for open AI development while Google and Microsoft sit out](https://www.scmp.com/tech/big-tech/article/3244012/meta-ibm-and-intel-join-alliance-open-ai-development-while-google-and-microsoft-sit-out)
 
 [What Elon Musk has said about Ilya Sutskever, the chief scientist at the center of OpenAI’s leadership upheaval](https://finance.yahoo.com/news/elon-musk-said-ilya-sutskever-171726023.html)
 
