@@ -2,9 +2,6 @@ version: '3.8'
 
 networks:
   todo-net:
-
-volumes:
-  pgdata:
   
 services:
   web-api:
@@ -18,15 +15,8 @@ services:
     networks:
       - todo-net
     
-  db:
-    container_name: db_postgres_dev
-    image: postgres:15.5
-    restart: always
-    environment:
-      POSTGRES_PASSWORD: mysecretpassword
-    volumes:
-      - pgdata:/var/lib/postgresql/data
-    networks:
-      - todo-net
+        
+    
+  
     
   
